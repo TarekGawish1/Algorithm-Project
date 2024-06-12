@@ -1,7 +1,7 @@
 ## Algorithm vizualization Project
 This repository contains implementations of various sorting algorithms. Each algorithm is implemented in Python and includes:
 
-Bubble Sort (bubbleSort.py)
+<h2>Bubble Sort (bubbleSort.py)</h2><br>
 ![alt text](buble.gif)
 Insertion Sort (insertionSort.py)
 Quick Sort (quickSort.py)

@@ -4,10 +4,10 @@ This repository contains implementations of various sorting algorithms. Each alg
 - ## **Bubble Sort** (bubbleSort.py)
 - ![alt text](buble-1.gif)
 
-- **Insertion Sort** (insertionSort.py)</h2><br>
+- **Insertion Sort** (insertionSort.py)<br>
 - ![alt text](insertoin.gif)
 
-- **Selection Sort** (selectionSort.py)</h2><br>
+- **Selection Sort** (selectionSort.py)<br>
 - ![alt text](selection.gif)
 
 - **Quick Sort** (quickSort.py)</h2>

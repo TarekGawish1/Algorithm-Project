@@ -2,6 +2,7 @@
 This repository contains implementations of various sorting algorithms. Each algorithm is implemented in Python and includes:
 
 Bubble Sort (bubbleSort.py)
+![alt text](buble.gif)
 Insertion Sort (insertionSort.py)
 Quick Sort (quickSort.py)
 Selection Sort (selectionSort.py)

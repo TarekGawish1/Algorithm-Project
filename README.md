@@ -4,6 +4,7 @@ This repository contains implementations of various sorting algorithms. Each alg
 Bubble Sort (bubbleSort.py)
 ![alt text](buble.gif)
 Insertion Sort (insertionSort.py)
+![alt text](buble.gif)
 Quick Sort (quickSort.py)
 Selection Sort (selectionSort.py)
 Sorting Algorithm Visualization (sorting_algoritm_visualization.py)

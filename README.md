@@ -5,13 +5,13 @@ This repository contains implementations of various sorting algorithms. Each alg
 - ![alt text](buble-1.gif)
 
 - **Insertion Sort** (insertionSort.py)<br>
-- ![alt text](insertoin.gif)
+![alt text](insertoin.gif)
 
 - **Selection Sort** (selectionSort.py)<br>
-- ![alt text](selection.gif)
+![alt text](selection.gif)
 
 - **Quick Sort** (quickSort.py)</h2>
-- ![alt text](quick.gif)
+![alt text](quick.gif)
 
 Sorting Algorithm Visualization (sorting_algoritm_visualization.py)
 These scripts demonstrate fundamental sorting techniques and include a visualization script to help understand how these algorithms work.
